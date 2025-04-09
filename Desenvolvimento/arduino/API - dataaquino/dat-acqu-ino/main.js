@@ -21,7 +21,7 @@ const serial = async (
         {
             host: 'localhost',
             user: 'aluno',
-            password: 'Sptech#2024',
+            password: senhas,
             database: 'MushTrack',
             port: 3307
         }
